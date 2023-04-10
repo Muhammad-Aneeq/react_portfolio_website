@@ -86,6 +86,9 @@ const Works = () => {
           links to code repositories and live demos in it. It reflects my
           ability to solve complex problems, work with different technologies,
           and manage projects effectively.
+          <br />
+          <br />
+          Click on the card to view the complete Project.
         </motion.p>
       </div>
       <div className="mt-20 flex flex-wrap gap-7">

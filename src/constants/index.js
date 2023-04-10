@@ -163,7 +163,7 @@ const projects = [
   {
     name: "Ecommerse Website",
     description:
-      "Web application that enables people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location.",
+      "Web application that enables people to buy and sell physical goods, and digital products over the internet rather than at a brick-and-mortar location.",
     tags: [
       {
         name: "react",
