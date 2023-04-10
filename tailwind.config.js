@@ -4,6 +4,9 @@ module.exports = {
   mode: "jit",
   theme: {
     extend: {
+      screens: {
+        xxs: "480px", // min-width
+      },
       colors: {
         primary: "#050816",
         secondary: "#aaa6c3",
