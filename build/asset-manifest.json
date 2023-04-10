@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0f99223.css",
+    "main.js": "/static/js/main.2f7d52f5.js",
+    "static/media/tripguide.png": "/static/media/tripguide.991986c795ea140ba063.png",
+    "static/media/youtube.png": "/static/media/youtube.0e44114d98c63a05eb08.png",
+    "static/media/herobg.png": "/static/media/herobg.ad33add2430e34307c33.png",
+    "static/media/carrent.png": "/static/media/carrent.6b1e855ede285c40b77f.png",
+    "static/media/jobit.png": "/static/media/jobit.755da7149642fd049273.png",
+    "static/media/booking_app.png": "/static/media/booking_app.b97476a332580e372d79.png",
+    "static/media/metaverse.png": "/static/media/metaverse.884636f1a86f8b6a4c65.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.2ad61e8f49ac1a86927b.png",
+    "static/media/web.png": "/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/github.png": "/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/logo.svg": "/static/media/logo.5e2c545e05b3de640d38bf4b4529d476.svg",
+    "static/media/close.svg": "/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
+    "static/media/menu.svg": "/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
+    "static/media/threejs.svg": "/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
+    "index.html": "/index.html",
+    "main.c0f99223.css.map": "/static/css/main.c0f99223.css.map",
+    "main.2f7d52f5.js.map": "/static/js/main.2f7d52f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f99223.css",
+    "static/js/main.2f7d52f5.js"
+  ]
+}
